@@ -68,12 +68,14 @@ h1 {
   color: white;
   font-weight: 400;
   flex-wrap: wrap;
+  margin: 0;
 }
 
 h2 {
   font-size: 2.5rem;
   color: rgba(230, 34, 57);
   font-weight: 100;
+  margin: 0;
 }
 
 #projects {
