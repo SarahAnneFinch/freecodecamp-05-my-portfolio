@@ -23,6 +23,7 @@ body {
 ul {
   display: flex;
   flex-direction: row;
+  margin: 0;
 }
 
 li {
@@ -53,7 +54,6 @@ li a:hover {
 
 #welcome-section {
   background-color: rgba(38, 37, 48);
-  padding-top: 6rem;
   display: flex;
   flex-direction: column;
   justify-content: center;
